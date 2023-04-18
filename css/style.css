@@ -1,0 +1,19 @@
+.bg{
+    background-image: url(../img/5512b0f1d52fe.jpg);
+    height: 500px;
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.button{
+    color: black;
+  background-color: brown;
+  border: none;
+
+}
+.h{
+    color: black;
+    text-transform: capitalize;
+    border: black;
+}
